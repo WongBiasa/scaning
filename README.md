@@ -13,5 +13,5 @@ $ cd scaning
 jalankan
 ```
 HEDY@LAPTOP-E6Q6MLUO  ~/documents/corel/scaning
-$ eagle_eye.sh
+$ bash eagle_eye.sh
 ```
